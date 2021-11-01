@@ -29,7 +29,7 @@
    It's a basic design of react project where any hospital can find doctor to get hired. Based on this idea I design it as a beginer in react world. 
    Technology used: html, Vanila CSS, React and JS
    
-2. ## E-Hospital : e-hospital-4f4bc.web.app
+2. ## E-Hospital : https://e-hospital-4f4bc.web.app/
    It's a basically trial of my learning firebase authentication system, react hook, custom hook, private route, routing, context API by doing this project. 
    ## Notes: Some Images are not showing after deploying in firbase and redirect page. The rest of the part is okay. Not fully Responsive yet. I have just developed my core functionality in doing react project.
   
