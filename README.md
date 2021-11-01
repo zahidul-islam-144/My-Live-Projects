@@ -31,6 +31,7 @@
    
 2. ## E-Hospital : e-hospital-4f4bc.web.app
    It's a basically trial of my learning firebase authentication system, react hook, custom hook, private route, routing, context API by doing this project. 
+   ## Notes: Some Images are not showing after deploying in firbase and redirect page. The rest of the part is okay. Not fully Responsive yet. I have just developed my core functionality in doing react project.
   
 # REACT AND NODE JS & MONGO DB PROJECTS: 
    ## ADDED SOON.... WORKING NOW 
