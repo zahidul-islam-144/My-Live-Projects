@@ -27,5 +27,9 @@
 # REACT PROJECTS: 
 1. ## The Good Doctor: https://the-good-doctors-by-zahidul-islam.netlify.app
    It's a basic design of react project where any hospital can find doctor to get hired. Based on this idea I design it as a beginer in react world. 
-   Technology used: html, Vanila CSS, React
+   Technology used: html, Vanila CSS, React and JS
+   
+2. ## E-Hospital : e-hospital-4f4bc.web.app
+   It's a basically trial of my learning firebase authentication system, react hook, custom hook, private route, routing, context API by doing this project. 
   
+# REACT AND NODE JS & MONGO DB PROJECTS: ADDED SOON.... WORKING NOW 
